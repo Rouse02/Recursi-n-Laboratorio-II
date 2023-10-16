@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1693399663 source:c:\users\rocio\onedrive\escritorio\guía-recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"strings.h"
+	"time.h"
+
+1693840201 source:c:\users\rocio\onedrive\escritorio\guía recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"strings.h"
+	"time.h"
+
